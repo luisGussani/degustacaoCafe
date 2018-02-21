@@ -1,0 +1,18 @@
+CRUDS
+1- cafe
+2- proprietario
+3- funcionario
+4- Q-grader
+5- Degustador amador
+
+Processos
+1- Avaliar
+2- Realizar comparação entre cafe
+3- Realizar venda café
+4- Alterar venda
+5- Alterar avaliação
+
+Relatórios
+1- Avaliações por proprietario
+2- Avaliações por tipo de café
+3- Avaliações por Q-grader
